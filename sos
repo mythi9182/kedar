@@ -9,7 +9,4 @@ p {color: red;}
 </head>
 <body>
 
-<p id="demo" class="test" style="color: pink;">Hello World!</p>
-
-</body>
-</html>
+<p id="demo" class="test" style="col
